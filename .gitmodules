@@ -1,0 +1,15 @@
+[submodule "SDPNGs/lib/FreeRTOS-Kernel"]
+	path = SDPNGs/lib/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel
+[submodule "SDPNGs/lib/FreeRTOS-FAT-CLI-for-RPi-Pico"]
+	path = SDPNGs/lib/FreeRTOS-FAT-CLI-for-RPi-Pico
+	url = https://github.com/carlk3/FreeRTOS-FAT-CLI-for-RPi-Pico
+[submodule "SDPNGs/lib/Lab-Project-FreeRTOS-FAT"]
+	path = SDPNGs/lib/Lab-Project-FreeRTOS-FAT
+	url = https://github.com/FreeRTOS/Lab-Project-FreeRTOS-FAT
+[submodule "SDPNGs/lib/miniz"]
+	path = SDPNGs/lib/miniz
+	url = https://github.com/richgel999/miniz
+[submodule "SDPNGs/lib/libspng"]
+	path = SDPNGs/lib/libspng
+	url = https://github.com/randy408/libspng/

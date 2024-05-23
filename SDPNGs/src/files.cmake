@@ -1,0 +1,9 @@
+set(SRC_FILES 
+    ${CMAKE_CURRENT_LIST_DIR}/BlinkAgent.cpp
+    ${CMAKE_CURRENT_LIST_DIR}/Agent.cpp
+	${CMAKE_CURRENT_LIST_DIR}/Ili9341.cpp
+	${CMAKE_CURRENT_LIST_DIR}/PubSansBlack.c
+	${CMAKE_CURRENT_LIST_DIR}/hw_config.c
+	${CMAKE_CURRENT_LIST_DIR}/SDPngViewer.cpp
+	${CMAKE_CURRENT_LIST_DIR}/ColorUtils.cpp
+)
